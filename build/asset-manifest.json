@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02c6a5f1.css",
+    "main.js": "/static/js/main.a3437a6c.js",
+    "static/js/787.fbc52634.chunk.js": "/static/js/787.fbc52634.chunk.js",
+    "static/media/slide-3.webp": "/static/media/slide-3.9836541cb7d665bc9700.webp",
+    "static/media/img-page-3.png": "/static/media/img-page-3.e5a780eb689ab90c40e0.png",
+    "static/media/MOODERN.ttf": "/static/media/MOODERN.8dab3faaf43916e5aa63.ttf",
+    "static/media/nosotros.jpg": "/static/media/nosotros.d9d3f011ce30d18629bd.jpg",
+    "static/media/slide-2.webp": "/static/media/slide-2.272d1df2643176010433.webp",
+    "static/media/slide-1.jpeg": "/static/media/slide-1.073c904ed179d02dd5c1.jpeg",
+    "static/media/Modern-Age.ttf": "/static/media/Modern-Age.aa3c3fcb7964c917d52a.ttf",
+    "static/media/logo_small.png": "/static/media/logo_small.8acc0430e40aeadc18e7.png",
+    "index.html": "/index.html",
+    "main.02c6a5f1.css.map": "/static/css/main.02c6a5f1.css.map",
+    "main.a3437a6c.js.map": "/static/js/main.a3437a6c.js.map",
+    "787.fbc52634.chunk.js.map": "/static/js/787.fbc52634.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02c6a5f1.css",
+    "static/js/main.a3437a6c.js"
+  ]
+}
